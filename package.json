@@ -1,5 +1,5 @@
 {
-  "name": "@headlessdomains/sdk",
+  "name": "headlessdomains-sdk",
   "version": "0.1.0",
   "description": "Official Node.js SDK for Headless Domains - The Identity Layer for Autonomous Agents",
   "main": "dist/index.js",

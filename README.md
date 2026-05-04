@@ -5,13 +5,13 @@ Official Node.js / TypeScript SDK for interacting with [Headless Domains](https:
 ## Installation
 
 ```bash
-npm install @headlessdomains/sdk
+npm install headlessdomains-sdk
 ```
 
 ## Usage
 
 ```typescript
-import { HeadlessDomainsClient } from '@headlessdomains/sdk';
+import { HeadlessDomainsClient } from 'headlessdomains-sdk';
 
 const client = new HeadlessDomainsClient({
     apiKey: 'your_api_key_here'
