@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shadstoneofficial/headlessdomains-node-sdk.git"
+    "url": "git+https://github.com/headlessdomains/headlessdomains-node-sdk.git"
   },
   "keywords": [
     "headlessdomains",
