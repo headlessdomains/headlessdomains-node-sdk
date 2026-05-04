@@ -2,6 +2,9 @@
 
 Official Node.js / TypeScript SDK for interacting with [Headless Domains](https://headlessdomains.com).
 
+- **NPM:** [https://www.npmjs.com/package/headlessdomains-sdk](https://www.npmjs.com/package/headlessdomains-sdk)
+- **GitHub:** [https://github.com/headlessdomains/headlessdomains-node-sdk](https://github.com/headlessdomains/headlessdomains-node-sdk)
+
 ## Installation
 
 ```bash
